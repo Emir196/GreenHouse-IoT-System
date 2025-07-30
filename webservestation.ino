@@ -16,8 +16,8 @@
     #define SOUND_SPEED 0.034   // Speed of sound for ultrasonic sensor
 
     // WiFi credentials
-    const char* ssid = "emir";
-    const char* password = "internet";    
+    const char* ssid = "WIFI";
+    const char* password = "PASSWORD";    
 
     // Global variables
     long duration;

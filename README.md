@@ -10,8 +10,9 @@
 ## 🌱 Overview
 
 AgroSense-IoT is a comprehensive environmental monitoring solution designed for vertical farming systems. Built on the ESP32 platform, it provides real-time sensor data collection, web-based dashboard visualization, and automated alerts for optimal plant growing conditions.
-
+![WhatsApp Image 2025-07-30 at 18 46 49_f1d5a6c2](https://github.com/user-attachments/assets/a4e56ff5-1bca-48b5-b301-a7d4971b35b7)
 ![Dashboard Preview](https://via.placeholder.com/800x400/2ecc71/ffffff?text=AgroSense-IoT+Dashboard)
+
 
 ## 🚀 Features
 
